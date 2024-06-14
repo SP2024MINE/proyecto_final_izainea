@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+#### MIS IGNORES ####
+
+*.env
+Codigo/mi_archivo_secreto.txt
